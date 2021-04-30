@@ -27,7 +27,7 @@ IJCAI, 2020
 
 ## Honor
   - 2020.10&nbsp;&nbsp; National Scholarship  
-  - 2020.10&nbsp;&nbsp; Outstanding Student Scholarship For Master  
-  - 2019.06&nbsp;&nbsp; Excellent Undergraduate Thesis  
-  - 2018.09&nbsp;&nbsp; Outstanding Student Scholarship  
-  - 2017.09&nbsp;&nbsp; Outstanding Student Scholarship   
+  - 2020.10&nbsp;&nbsp; Outstanding Student Scholarship For Master; &nbsp;&nbsp; Wuhan University
+  - 2019.06&nbsp;&nbsp; Excellent Undergraduate Thesis &nbsp;&nbsp; Wuhan University  
+  - 2018.09&nbsp;&nbsp; Outstanding Student Scholarship &nbsp;&nbsp; Wuhan University  
+  - 2017.09&nbsp;&nbsp; Outstanding Student Scholarship &nbsp;&nbsp; Wuhan University   
