@@ -4,12 +4,12 @@ School of Computer Science, Wuhan University
 Email: leaf-yej@whu.edu.cn  
 Github: [https://github.com/Real-YeJ](https://github.com/Real-YeJ)  
 
-I'm currently a master student of School of Computer Science at WHU, and my research focuses on Scene Text Detection.  
+I'm currently a master student of school of computer science at WHU, and my research focuses on Scene Text Detection.  
 
 
 ## Education
-Master's degree in School of Computer Science, Wuhan University, 2019-Now  
-Bachelor's degree in School of Computer Science, Wuhan University, 2015-2019   
+Master's degree in School of Computer Science, Wuhan University, 2019.9-Now  
+Bachelor's degree in School of Computer Science, Wuhan University, 2015.9-2019.6   
 
 ## Publication
 TextFuseNet: Scene Text Detection with Richer Fused Features.[[Paper]](https://www.ijcai.org/Proceedings/2020/72) [[Code]](https://github.com/ying09/TextFuseNet)   
