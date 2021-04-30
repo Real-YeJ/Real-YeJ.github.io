@@ -1,5 +1,5 @@
 __<font size=5>Jian Ye</font>__  
-[Sigma](http://sigma.whu.edu.cn) Lab  
+Sigma Lab [[official Web]](http://sigma.whu.edu.cn)
 School of Computer Science, Wuhan University  
 Email: leaf-yej@whu.edu.cn  
 Github: [https://github.com/Real-YeJ](https://github.com/Real-YeJ)  
