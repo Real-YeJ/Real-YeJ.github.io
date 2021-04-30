@@ -26,8 +26,8 @@ China Graduate AI Innovation Competition 2019, &nbsp;Second-class award
 JD Explore Academy, &nbsp;Research Intern, &nbsp;2021.1-Now  
 
 ## Honor
-  -National Scholarship. &nbsp;2020.10  
-  -Outstanding Student Scholarship For Master. &nbsp;2020.10  
-  -Excellent Undergraduate Thesis.  &nbsp;2019.6  
-  -Outstanding Student Scholarship. &nbsp;2018.9  
-  -Outstanding Student Scholarship. &nbsp;2017.9  
+  - National Scholarship. &nbsp;2020.10  
+  - Outstanding Student Scholarship For Master. &nbsp;2020.10  
+  - Excellent Undergraduate Thesis.  &nbsp;2019.6  
+  - Outstanding Student Scholarship. &nbsp;2018.9  
+  - Outstanding Student Scholarship. &nbsp;2017.9  
