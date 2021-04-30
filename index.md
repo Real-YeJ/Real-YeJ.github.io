@@ -8,8 +8,8 @@ I'm currently a master student of school of computer science at WHU, and my rese
 
 
 ## Education
-Master's degree in School of Computer Science, Wuhan University, 2019.9-Now  
-Bachelor's degree in School of Computer Science, Wuhan University, 2015.9-2019.6   
+2019.09-Now&nbsp;&nbsp; Master's degree in School of Computer Science, Wuhan University  
+2015.09-2019.06&nbsp;&nbsp; Bachelor's degree in School of Computer Science, Wuhan University  
 
 ## Publication
 TextFuseNet: Scene Text Detection with Richer Fused Features.[[Paper]](https://www.ijcai.org/Proceedings/2020/72) [[Code]](https://github.com/ying09/TextFuseNet)   
@@ -23,11 +23,11 @@ IJCAI, 2020
   - China Graduate AI Innovation Competition 2019, &nbsp;Second-class award 
 
 ## Experience
-JD Explore Academy, &nbsp;Research Intern, &nbsp;2021.1-Now  
+2021.01-Now&nbsp;&nbsp; JD Explore Academy, &nbsp;Research Intern  
 
 ## Honor
-  - National Scholarship. &nbsp;2020.10  
-  - Outstanding Student Scholarship For Master. &nbsp;2020.10  
-  - Excellent Undergraduate Thesis.  &nbsp;2019.6  
-  - Outstanding Student Scholarship. &nbsp;2018.9  
-  - Outstanding Student Scholarship. &nbsp;2017.9  
+  - 2020.10&nbsp;&nbsp; National Scholarship  
+  - 2020.10&nbsp;&nbsp; Outstanding Student Scholarship For Master  
+  - 2019.06&nbsp;&nbsp; Excellent Undergraduate Thesis  
+  - 2018.09&nbsp;&nbsp; Outstanding Student Scholarship  
+  - 2017.09&nbsp;&nbsp; Outstanding Student Scholarship   
