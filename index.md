@@ -17,9 +17,9 @@ Jian Ye, Zhe Chen, Juhua Liu, Bo Du.
 IJCAI, 2020  
 
 ## Competition
-  - ICDAR2019 Arbitrary-Shaped Text Competition, &nbsp;Rank __1__/50  
-  - ICDAR2015 Incidental Scene Text Competition, &nbsp;Rank __1__/137  
-  - ICDAR2013 Focused Scene Text Competition, &nbsp;Rank __5__/118  
+  - [ICDAR2019 Arbitrary-Shaped Text Competition](https://rrc.cvc.uab.es/?ch=14), &nbsp;Rank __1__/50  
+  - [ICDAR2015 Incidental Scene Text Competition](https://rrc.cvc.uab.es/?ch=4), &nbsp;Rank __1__/137  
+  - [ICDAR2013 Focused Scene Text Competition](https://rrc.cvc.uab.es/?ch=2), &nbsp;Rank __5__/118  
   - China Graduate AI Innovation Competition 2019, &nbsp;Second-class award 
 
 ## Experience
