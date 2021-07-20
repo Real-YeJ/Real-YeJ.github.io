@@ -16,6 +16,10 @@ TextFuseNet: Scene Text Detection with Richer Fused Features.[[Paper]](https://w
 Jian Ye, Zhe Chen, Juhua Liu, Bo Du.  
 IJCAI, 2020  
 
+I3CL:Intra- and Inter-Instance Collaborative Learning for Arbitrary-shaped Scene Text Detection.  
+Jian Ye, Jing Zhang, Juhua Liu, Bo Du, Dacheng Tao.  
+ 
+
 ## Competition
   - [ICDAR2019 Arbitrary-Shaped Text Competition](https://rrc.cvc.uab.es/?ch=14), &nbsp;Rank __1__/50  
   - [ICDAR2015 Incidental Scene Text Competition](https://rrc.cvc.uab.es/?ch=4), &nbsp;Rank __1__/137  
