@@ -27,7 +27,7 @@ Jian Ye, Jing Zhang, Juhua Liu, Bo Du, Dacheng Tao.
   - China Graduate AI Innovation Competition 2019, &nbsp;Second-class award 
 
 ## Experience
-2021.01-Now&nbsp;&nbsp; JD Explore Academy, &nbsp;Research Intern  
+2021.01-2021.08&nbsp;&nbsp; JD Explore Academy, &nbsp;Research Intern  
 
 ## Honor
   - 2020.10&nbsp;&nbsp; National Scholarship  
