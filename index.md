@@ -17,7 +17,8 @@ Jian Ye, Zhe Chen, Juhua Liu, Bo Du.
 IJCAI, 2020  
 
 I3CL: Intra- and Inter-Instance Collaborative Learning for Arbitrary-shaped Scene Text Detection.[[Paper]](https://arxiv.org/pdf/2108.01343.pdf) [[Code]](https://github.com/Real-YeJ/YeJ_TextDet)      
-Jian Ye, Jing Zhang, Juhua Liu, Bo Du, Dacheng Tao.  
+Bo Du, Jian Ye, Jing Zhang, Juhua Liu, Dacheng Tao.  
+IJCV, 2022  
  
 
 ## Competition
