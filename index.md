@@ -4,11 +4,9 @@ School of Computer Science, Wuhan University
 Email: leaf-yej@whu.edu.cn  
 Github: [https://github.com/Real-YeJ](https://github.com/Real-YeJ)  
 
-I'm currently a master student of school of computer science at WHU, and my research focuses on Scene Text Detection.  
-
 
 ## Education
-2019.09-Now&nbsp;&nbsp; Master's degree in School of Computer Science, Wuhan University  
+2019.09-2022.06&nbsp;&nbsp; Master's degree in School of Computer Science, Wuhan University  
 2015.09-2019.06&nbsp;&nbsp; Bachelor's degree in School of Computer Science, Wuhan University  
 
 ## Publication
@@ -29,6 +27,7 @@ IJCV, 2022
 
 ## Experience
 2021.01-2021.08&nbsp;&nbsp; JD Explore Academy, &nbsp;Research Intern  
+2022.06-Now&nbsp;&nbsp; Alibaba Group, &nbsp;Research Engineer
 
 ## Honor
   - 2020.10&nbsp;&nbsp; National Scholarship  
